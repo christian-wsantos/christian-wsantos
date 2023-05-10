@@ -1,7 +1,7 @@
-## Bem-vindo(a) ao perfil do Dev em Dobro 😁
+## Bem-vindo(a) ao perfil do Christian Santos 😁
 
  <div>
-   <a href="https://github.com/ChristianSantos">
+   <a href="https://github.com/Christian Santos">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChristianSantos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianSantos&layout=compact&langs_count=6&theme=tokyonight"/>
 
@@ -13,8 +13,6 @@
 </div>
  
  <br>
- 
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
  
 <div> 
  
